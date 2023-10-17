@@ -1,0 +1,7 @@
+Requirements:
+
+Python
+
+PIP Installs:
+
+pip install discord
